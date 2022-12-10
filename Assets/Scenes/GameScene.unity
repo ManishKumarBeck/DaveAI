@@ -156,7 +156,6 @@ MonoBehaviour:
   _speed: 2
   _velocity: {x: 0, y: 0, z: 0}
   _playerModel: {fileID: 1669512579}
-  _cameraSensitivity: 2
 --- !u!4 &70317811
 Transform:
   m_ObjectHideFlags: 0
@@ -684,8 +683,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.0085569685, y: 0.008047662, z: 0.009999998}
-  m_Center: {x: 0.0012635002, y: -0.00097616337, z: 9.692986e-12}
+  m_Size: {x: 0.0085569685, y: 0.0073549356, z: 0.009999998}
+  m_Center: {x: 0.0012635001, y: -0.0013225243, z: 4.285454e-12}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
